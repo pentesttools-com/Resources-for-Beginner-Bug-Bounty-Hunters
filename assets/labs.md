@@ -20,6 +20,7 @@
 - [HackThisSite](https://hackthissite.org/)
 - [CTFChallenge](https://ctfchallenge.co.uk) | Web CTF based on real vulnerabilities
 - [Hacksplaining](https://www.hacksplaining.com/)
+- [Pentest-Ground](https://pentest-ground.com/) | Playground free with vulnerable web apps
 
 
 #### Premium
